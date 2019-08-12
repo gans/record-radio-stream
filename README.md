@@ -1,2 +1,5 @@
 # record-radio-stream
-A simple radio record
+A boring radio record
+
+## todo
+decoding .aac files speach to text files
